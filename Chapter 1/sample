@@ -1,13 +1,4 @@
-/*Hello World program
-Multiline comment 1
-*/
-#include<stdio.h>
-int main()
-{
-	printf("Hello World"); //Printing a statement
-	printf("C Programming");  //Printing another statement
-  /* 
-	 Multiline comment 2
-  */
-return 0;
-}
+a b	c d	
+ef	gh	ij	kl
+				
+
