@@ -1,8 +1,4 @@
-a
-ab
-abc
-abcd
-abcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
-abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzaaaa
-abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzf
+a b c d e f g h i jklm	no	pqr	s	tu	vwxyz
+ab	c	de	f g h i    jk	l	mno
+abc		de f  gh	ij
+ab	c  de
